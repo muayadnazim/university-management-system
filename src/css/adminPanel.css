@@ -1,0 +1,82 @@
+:root {
+    --grayOne: #5D5C61;
+    --grayTow: #6e6e70;
+    --blueOne: #557A95;
+    --blueTow: #7395AE;
+    --yelloGray: #B1A296;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.sideBar {
+
+    width: 250px;
+    /* background-color: var(--grayOne); */
+}
+
+.logo_bar {
+    width: 250px;
+
+    position: relative;
+}
+
+.logo_bar img {
+    width: 33px;
+    height: 33px;
+    padding: 3px;
+}
+
+.logo_bar span {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25rem;
+    color: white;
+    text-align: center;
+
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.nav-bar-item {
+    margin-left: 40px;
+}
+
+/*just temporary  */
+.row {
+    padding-top: 15px;
+}
+
+/* start home */
+
+
+/* end home */
+
+
+
+/* start login */
+.log-in {
+    display: flex;
+    background-color: #bfd7e7;
+    height: 100vh;
+    justify-content: center;
+align-items: center;
+flex-direction: column;
+
+gap: 30px;
+}
+.buttonLog {
+    background-color: #04AA6D;
+    color: white;
+    padding: 5px 10px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+/* end login */
+
+
+
