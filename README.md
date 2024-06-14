@@ -1,11 +1,19 @@
-# React + Vite
+# React + Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+University Management System (UMS) a website designed to manage data
+ and information for the university, college, faculty members and students. It
+ is used to store college data and information, students, lessons, grades ,
+ starting from the registration of a new student in the college, all the details
+ related to attendance and marks of students. The project deals with data and
+ information retrieval. Collects relevant information from all departments of
+ the organization and maintains files and one features of this website is
+ response so that users can access to the site From different devices like
+ phone, tablet and laptop .The proposed website provides an interactive
+ system between the student and the department .the website implementation
+ using Html , CSS, Java Script, Boot Strap and React on the frontend and we
+ use with Backend Firebase and Firebase Authentication
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - ![Screenshot (25)](https://github.com/muayadnazim/university-management-system/assets/54330939/479ac33c-d100-430c-9b4c-61eb8973cc16)
 
